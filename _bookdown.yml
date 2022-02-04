@@ -1,8 +1,8 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/pratheesh3780/Applied-statistical-genetics/edit/master/%s
-view: https://github.com/pratheesh3780/Applied-statistical-genetics/blob/master/%s
+edit: https://github.com/pratheesh3780/basic-statistics/edit/master/%s
+view: https://github.com/pratheesh3780/basic-statistics/blob/master/%s
 language:
   ui:
     chapter_name: "Chapter "
