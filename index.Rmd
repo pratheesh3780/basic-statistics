@@ -14,7 +14,7 @@ cover-image: images/coverpage.PNG
  
 
 # Welcome {-} 
-<p style="text-align: center;"><a href="https://coavellayani.kau.in/people/dr-pratheesh-p-gopinath"><img src="images/coverpage.png" alt="DAEA cover" /></a></p>  
+<p style="text-align: center;"><a href="https://coavellayani.kau.in/people/dr-pratheesh-p-gopinath"><img src="images/coverpage.PNG" alt="DAEA cover" /></a></p>  
 Welcome to the book **Introduction to Agricultural Statistics**.
 
 # Preface {-}
