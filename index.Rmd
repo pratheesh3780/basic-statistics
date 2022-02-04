@@ -1,5 +1,5 @@
 ---
-title: "AGRICULTURAL STATISTICS"
+title: "INTRODUCTION TO AGRICULTURAL STATISTICS"
 author: "Dr. Pratheesh P. Gopinath, Dr. Manju Mary Paul"
 date: "2022-01-30"
 site: bookdown::bookdown_site
