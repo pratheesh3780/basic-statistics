@@ -1,0 +1,29 @@
+---
+title: "AGRICULTURAL STATISTICS"
+author: "Dr. Pratheesh P. Gopinath, Dr. Manju Mary Paul"
+date: "2022-01-30"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: https://github.com/pratheesh3780/Applied-statistical-genetics
+description: "A BOOK FOR UNDERGRADUATE PROGRAMME IN AGRICULTURE"
+cover-image: images/coverpage.PNG
+---  
+ 
+
+# Welcome {-} 
+<p style="text-align: center;"><a href="https://coavellayani.kau.in/people/dr-pratheesh-p-gopinath"><img src="images/coverpage.png" alt="DAEA cover" /></a></p>  
+Welcome to the book **Applied Statistical Genetics**.
+
+# Preface {-}
+
+<p style="text-align: justify;"> **Note**: This book is published by XXXXXXXX. The online version of this book is free to read here, and licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). If you have any feedback, please feel free to [file an issue on GitHub](https://github.com/pratheesh3780/basic-statistics). Thank you!</p>
+
+<p style="text-align: center;">This book is for Under Graduate Programme in Agriculture and other allied sciences </p>  
+
+
+
+
+
