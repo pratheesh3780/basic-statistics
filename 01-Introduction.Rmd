@@ -2,7 +2,7 @@
 ## Origin of the word “Statistics”  
 <p style="text-align: justify;">The term statistics was derived from the Neo-Latin word `statisticum collegium` meaning “council of state" and the Italian word `statista` meaning "statesman" or "politician".</p>  
 
-<p style="text-align: justify;">A German word `Statistik`, got the meaning of the collection and classification of data generally in the early 19th century. This word was first introduced by Gottfried Achenwall (1749), originally designated as a term for analysis of data about the state. The term `Statistik` was introduced into English in 1791 by Sir John Sinclair when he published the first of 21 volumes titled Statistical Account of Scotland [@ball]. The first book to have 'Statistics' in its title was "Contributions to Vital Statistics" (1845) by Francis GP Neison, actuary^[a person who compiles and analyses statistics and uses them to calculate insurance risks and premiums.] to the Medical Invalid and General Life Office.</p>
+<p style="text-align: justify;">A German word `Statistik`, got the meaning "collection and classification of data" generally in the early 19th century. This word was first introduced by Gottfried Achenwall (1749). `Statistik` was  originally designated as a term for analysis of data about the state (data used by government or other administrative bodies). The term `Statistik` was introduced into English in 1791 by Sir John Sinclair when he published the first of 21 volumes titled "Statistical Account of Scotland" [@ball]. The first book to have 'Statistics' in its title was "Contributions to Vital Statistics" (1845) by Francis GP Neison, actuary^[actuary: A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums.] to the Medical Invalid and General Life Office.</p>
 ```{r scotland, echo=FALSE,fig.cap='Statistical Account of Scotland by Sir John Sinclair (1749)',fig.height=4, fig.align='center'}
 knitr::include_graphics(rep("images/history1.png"))
 ```
@@ -11,13 +11,13 @@ knitr::include_graphics(rep("images/history1.png"))
 <p style="text-align: justify;">Early evidence of statistical data collection was available from some of the oldest dynasties in the world. The Han Dynasty of China and the Roman Empire were some of the first to extensively gather data on the size of the empire's population, geographical area and wealth. The use of statistical methods dates back to at least the 5th century BCE.</p>
 
 ### The wall of Platea  
-It is given by Thucydides, a historian and general in Athens, ancient Greece, in his scholarly work History of the Peloponnesian War[@platea], how the Athenians put use of statistics to scale a wall and win a war. The work recounts the fifth-century BC war between Sparta and Athens until the year 411 BC. Soldiers calculated the height of the wall of Platea by counting the number of bricks in a non-plastered section of the wall. The count was repeated several times by a number of soldiers. The most frequent value (Term used for the most frequent value in statistics is Mode) is considered most likely to be the number of bricks in the wall. Multiplying this value by the height of the bricks used in the wall allowed the Athenians to determine the height of the ladders necessary to scale the walls.
+<p style="text-align: justify;">It is given by Thucydides, a historian and general in Athens, ancient Greece, in his scholarly work History of the Peloponnesian War[@platea], how the Athenians put use of statistics to scale a wall and win a war. The work recounts the fifth-century BC war between Sparta and Athens until the year 411 BC. Soldiers calculated the height of the wall of Platea by counting the number of bricks in a non-plastered section of the wall. The count was repeated several times by a number of soldiers. The most frequent value (In statistics the term used for the most frequent value in a dataset is Mode) is considered most likely to be the number of bricks in the wall. Multiplying this value by the height of the bricks used in the wall allowed the Athenians to determine the height of the ladders necessary to scale the walls.</p>
 
 ```{r platea, echo=FALSE,fig.cap='Part of the wall of platea',fig.height=4, fig.align='center'}
 knitr::include_graphics(rep("images/platea.png"))
 ```
 
 
-Just for fun and for the love of statistics, we have come up with a figurative definition from the term STATISTICS itself **S**trengthening **T**echnological **A**dvancement **T**hrough **I**mplementing **S**ystematic **T**echniques **I**n **C**ontemporary **S**ciences.
+
 
 
