@@ -17,7 +17,10 @@ knitr::include_graphics(rep("images/history1.png"))
 knitr::include_graphics(rep("images/platea.png"))
 ```
 
+### Trial of the Pyx  
+<p style="text-align: justify;">Evidence of the application of statistical sampling methods (sampling is discussed in detail in chapter XX) from 12^th^ century can be seen from the* The Trial of the Pyx*. The Trial of the Pyx is a judicial ceremony in the United Kingdom to ensure that newly minted coins from the government owned mint (Royal mint) that produces coins for the United Kingdom conform to their required dimensional and fineness specifications. The ceremony has been held on a regular basis since the 12th century. The word pyx derives from the Greek, pyxis meaning wooden box; the boxes in which coins are stored. Coins to be tested are drawn from the regular production of the Royal Mint. The Deputy Master of the Mint must, throughout the year, randomly select several thousand sample coins (one coin for every ten pounds of silver minted) and place them aside for the Trial.</p>  
 
+## Statistics in Astronomy
 
-
+<p style="text-align: justify;">Arithmetic mean (average) has been first used by Babylonian astronomers in the third century BC. The concept of the arithmetic mean originated from the Greek astronomer Hipparchus[@plackett]. Arithmetic mean was not generalised to more than two values until the 16^th^ century. The invention of the decimal system by Simon Stevin a Flemish mathematician, physicist and military engineer in 1585 has influenced calculations with more than two values. Tycho Brahe, a Danish astronomer known for his accurate estimates of celestial positions than those of any predecessor or contemporary, first adopted the calculations involving mean with more than two values in astronomy.</p>
 

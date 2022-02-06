@@ -4,3 +4,5 @@ history
 origin-of-the-word-statistics
 statistics-in-ancient-times
 the-wall-of-platea
+trial-of-the-pyx
+statistics-in-astronomy
