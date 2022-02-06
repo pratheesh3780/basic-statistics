@@ -6,7 +6,11 @@
 ```{r scotland, echo=FALSE,fig.cap='Statistical Account of Scotland by Sir John Sinclair (1749)',fig.height=4, fig.align='center'}
 knitr::include_graphics(rep("images/history1.png"))
 ```
+## Statistics in ancient times  
 
+Early evidence of statistical data collection was available from some of the oldest dynasties in the world. The Han Dynasty of China and the Roman Empire were some of the first to extensively gather data on the size of the empire's population, geographical area and wealth. The use of statistical methods dates back to at least the 5th century BCE.
+
+### The wall of Platea 
 
 
 
