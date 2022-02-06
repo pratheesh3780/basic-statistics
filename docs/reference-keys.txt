@@ -1,3 +1,6 @@
 fig:scotland
+fig:platea
 history
 origin-of-the-word-statistics
+statistics-in-ancient-times
+the-wall-of-platea
