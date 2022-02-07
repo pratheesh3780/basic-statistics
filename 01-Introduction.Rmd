@@ -3,7 +3,7 @@
 <p style="text-align: justify;">The term statistics was derived from the Neo-Latin word `statisticum collegium` meaning “council of state" and the Italian word `statista` meaning "statesman" or "politician".</p>  
 
 <p style="text-align: justify;">A German word `Statistik`, got the meaning "collection and classification of data" generally in the early 19th century. This word was first introduced by Gottfried Achenwall (1749). `Statistik` was  originally designated as a term for analysis of data about the state (data used by government or other administrative bodies). The term `Statistik` was introduced into English in 1791 by Sir John Sinclair when he published the first of 21 volumes titled "Statistical Account of Scotland" [@ball]. The first book to have 'Statistics' in its title was "Contributions to Vital Statistics" (1845) by Francis GP Neison, actuary^[actuary: A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums.] to the Medical Invalid and General Life Office.</p>
-```{r scotland, echo=FALSE,fig.cap='Statistical Account of Scotland by Sir John Sinclair (1749)',fig.height=4, fig.align='center'}
+```{r scotland, echo=FALSE,fig.cap='Statistical Account of Scotland by Sir John Sinclair (1791)',fig.height=4, fig.align='center'}
 knitr::include_graphics(rep("images/history1.png"))
 ```
 ## Statistics in ancient times  
