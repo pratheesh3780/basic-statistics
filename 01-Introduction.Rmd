@@ -6,7 +6,7 @@
 ```{r scotland, echo=FALSE,fig.cap='Statistical Account of Scotland by Sir John Sinclair (1791)',fig.height=4, fig.align='center'}
 knitr::include_graphics(rep("images/history1.png"))
 ```
-## Statistics in ancient times  
+## Statistics in its ancient past 
 
 <p style="text-align: justify;">Early evidence of statistical data collection was available from some of the oldest dynasties in the world. The Han Dynasty of China and the Roman Empire were some of the first to extensively gather data on the size of the empire's population, geographical area and wealth. The use of statistical methods dates back to at least the 5th century BCE.</p>
 
@@ -22,5 +22,5 @@ knitr::include_graphics(rep("images/platea.png"))
 
 ### Statistics in Astronomy
 
-<p style="text-align: justify;">Arithmetic mean (average) has been first used by Babylonian astronomers in the third century BC. The concept of the arithmetic mean originated from the Greek astronomer Hipparchus[@plackett]. Arithmetic mean was not generalised to more than two values until the 16^th^ century. The invention of the decimal system by Simon Stevin a Flemish mathematician, physicist and military engineer in 1585 has influenced calculations with more than two values. Tycho Brahe, a Danish astronomer known for his accurate estimates of celestial positions than those of any predecessor or contemporary, first adopted the calculations involving mean with more than two values in astronomy.</p>
+<p style="text-align: justify;">Arithmetic mean (average) has been first used by Babylonian astronomers in the third century BC. The concept of the arithmetic mean originated from the Greek astronomer Hipparchus[@plackett]. Arithmetic mean was not generalized to more than two values until the 16^th^ century. The invention of the decimal system by Simon Stevin a Flemish mathematician, physicist and military engineer in 1585 has influenced calculations with more than two values. Tycho Brahe, a Danish astronomer known for his accurate estimates of celestial positions than those of any predecessor or contemporary, first adopted the calculations involving mean with more than two values in astronomy.</p>
 

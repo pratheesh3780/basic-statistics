@@ -1,5 +1,5 @@
 ---
-title: "INTRODUCTION TO AGRICULTURAL STATISTICS"
+title: "BASIC STATISTICS FOR AGRICULTURAL RESEARCH"
 author: "Dr. Pratheesh P. Gopinath, Dr. Manju Mary Paul"
 date: "2022-01-30"
 site: bookdown::bookdown_site
@@ -15,7 +15,7 @@ cover-image: images/coverpage.PNG
 
 # Welcome {-} 
 <p style="text-align: center;"><a href="https://coavellayani.kau.in/people/dr-pratheesh-p-gopinath"><img src="images/cover.png" alt="DAEA cover" /></a></p>  
-Welcome to the book **Introduction to Agricultural Statistics**.
+Welcome to the book **BASIC STATISTICS FOR AGRICULTURAL RESEARCH**.
 
 # Preface {-}  
 <p style="text-align: justify;">Agriculture plays a vital role in the Indian economy. Over 70 per cent of the rural households depend on agriculture. To ensure food security to the growing population, active research is an inevitable part for developing procedures to increase livestock and crop yields, improve farmland productivity, reduce loss due to post harvest handling, manage disease and insects, develop more efficient equipment and to increase overall food quality. A lot of scientist and students are involved in this process. Surveys, field and lab experiments are an integral part of agricultural research. All these actions generate, what we call data, which need to be carefully examined, understood and visualized for making valid scientific interpretations and conclusions.</p>

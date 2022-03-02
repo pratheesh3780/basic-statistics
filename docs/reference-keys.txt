@@ -2,7 +2,7 @@ fig:scotland
 fig:platea
 history
 origin-of-the-word-statistics
-statistics-in-ancient-times
+statistics-in-its-ancient-past
 the-wall-of-platea
 trial-of-the-pyx
 statistics-in-astronomy
